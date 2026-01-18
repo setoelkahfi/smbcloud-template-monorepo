@@ -1,0 +1,1 @@
+# smbcloud-template-monorepo
